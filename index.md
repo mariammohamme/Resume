@@ -1,4 +1,4 @@
-! [](mariam.jpg) 
+! [mariam](mariam.jpg) 
 # MARIAM MOHAMMED AL-QAMOUQ
 ### software engineering
 ---------------------
