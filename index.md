@@ -1,4 +1,4 @@
-! [](C:\Users\SquareOne\Desktop\mariam) 
+<img src= "C:\Users\SquareOne\Desktop\mariam">
 # MARIAM MOHAMMED AL-QAMOUQ
 ### software engineering
 ---------------------
