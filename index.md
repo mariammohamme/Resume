@@ -1,4 +1,5 @@
-! [C:\Users\SquareOne\Desktop\mariam\11111111111111.jpg]# MARIAM MOHAMMED AL-QAMOUQ
+! [](C:\Users\SquareOne\Desktop\mariam\11111111111111.jpg) 
+# MARIAM MOHAMMED AL-QAMOUQ
 ### software engineering
 ---------------------
 ## OBJECTIVE 
