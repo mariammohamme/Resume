@@ -51,13 +51,6 @@
 * ICDL in modern future academy
 * Communication skills in JEFE
 
-* Web in be programmer (PHP)
-
-* Html/Html5 in soloearn online from coding academy orange
-
-* Css/Css3 in soloearn online from coding academy orange
-
-* Java script (JS) in soloearn online from coding academy orange
 ## Language
 -----------------
 *	Arabic (native language)
