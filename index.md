@@ -1,8 +1,7 @@
 # MARIAM MOHAMMED AL-QAMOUQ
 ### software engineering
-## * OBJECTIVE 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+* OBJECTIVE 
+#### I'm looking for challenging career where I can utilize both my experience and knowledge to make an important contribution to the success of a growing company. I describe myself as an ambitious, dynamic, and highly organized with a proven ability of working on various operating technologies
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
