@@ -1,4 +1,4 @@
-! [](C:\Users\SquareOne\Desktop\mariam\11111111111111.jpg) 
+! [](mariam.jpg) 
 # MARIAM MOHAMMED AL-QAMOUQ
 ### software engineering
 ---------------------
