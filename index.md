@@ -1,4 +1,4 @@
-! [mariam]("C:\Users\SquareOne\Desktop\mariam") 
+! [mariam](C:\Users\SquareOne\Desktop\mariam) 
 # MARIAM MOHAMMED AL-QAMOUQ
 ### software engineering
 ---------------------
